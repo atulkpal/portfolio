@@ -232,6 +232,14 @@ nav {
   background: none;
 }
 
+.hero h1 .sub-line {
+  display: block;
+  color: var(--text-muted);
+  font-weight: 400;
+  font-size: 0.6em;
+  margin-top: 0.3rem;
+}
+
 .tagline {
   font-size: 1.1rem;
   color: var(--text-muted);
